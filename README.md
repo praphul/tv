@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Random TV shows and Movie recommendations
 
 You can use the [editor on GitHub](https://github.com/praphul/tv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
