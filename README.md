@@ -6,4 +6,6 @@ This list is created with inputs from friends. Follow and watch them at your ris
 | Title  | Location | Notes | 
 | ------------- | ------------- | ----------- | 
 | Yellowstone  | Paramount  | New season has started | 
-| Narcos  | Netflix  | Final season just got available | 
+| Narcos Mexico | Netflix  | Final season just got available | 
+| Squid Game  | Netflix  | New craze | 
+| Doctor  | Netflix  | Telugu/ South Indian movie | 
