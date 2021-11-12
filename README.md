@@ -6,6 +6,15 @@ This list is created with inputs from friends. Follow and watch them at your ris
 | Title  | Location | Notes | 
 | ------------- | ------------- | ----------- | 
 | Yellowstone  | Paramount  | New season has started | 
+| Prince  | HBO | Anime | 
+| Ted Lasso  | Apple TV  | TV series. Good comedy | 
+| See  |  Apple TV  | TV series. Post-apocalyptic show. Well shot | 
+| Brooklyn-9-9  | Hulu  | TV series. Good comedy | 
+| Billions  | Showtime  | TV series. Wall street | 
+| American Rust  | Showtime  | TV series. Pittsburgh rural | 
+| The Angel  | | Netflix  | Decent | 
+| Outerbanks  | Netflix  | TV series. Decent | 
+| The Vault  || Netflix  | Decent | 
 | Narcos Mexico | Netflix  | Final season just got available | 
 | Squid Game  | Netflix  | New craze | 
 | Doctor  | Netflix  | Telugu/ South Indian movie | 
