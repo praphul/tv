@@ -12,9 +12,9 @@ This list is created with inputs from friends. Follow and watch them at your ris
 | Brooklyn-9-9  | Hulu  | TV series. Good comedy | 
 | Billions  | Showtime  | TV series. Wall street | 
 | American Rust  | Showtime  | TV series. Pittsburgh rural | 
-| The Angel  | | Netflix  | Decent | 
+| The Angel  | Netflix  | Decent | 
 | Outerbanks  | Netflix  | TV series. Decent | 
-| The Vault  || Netflix  | Decent | 
+| The Vault  | Netflix  | Decent | 
 | Narcos Mexico | Netflix  | Final season just got available | 
 | Squid Game  | Netflix  | New craze | 
 | Doctor  | Netflix  | Telugu/ South Indian movie | 
