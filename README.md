@@ -10,3 +10,25 @@ This list is created with inputs from friends. Follow and watch them at your ris
 | Squid Game  | Netflix  | New craze | 
 | Doctor  | Netflix  | Telugu/ South Indian movie | 
 | Thalaivi | Netflix  | South Indian movie | 
+| Yellowstone  | Paramount  | New season has started | 
+
+
+
+
+
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6G5BGHNBP2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6G5BGHNBP2');
+</script>
+
+ 
