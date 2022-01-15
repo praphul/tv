@@ -47,4 +47,24 @@ This list is created with inputs from friends. Follow and watch them at your ris
   gtag('config', 'G-6G5BGHNBP2');
 </script>
 
+<!-- Default Statcounter code for
+https://praphul.github.io/tv/ https://praphul.github.io/tv/
+-->
+<script type="text/javascript">
+var sc_project=12701884; 
+var sc_invisible=1; 
+var sc_security="1e9e1169"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12701884/0/1e9e1169/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+
  
