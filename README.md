@@ -6,6 +6,13 @@ This list is created with inputs from friends. Follow and watch them at your ris
 | Title  | Location | Notes | 
 | ------------- | ------------- | ----------- | 
 | Yellowstone  | Paramount  | New season has started | 
+| Yeh kali kali aankhein  | Netflix  | New series | 
+| Harder they fall  | Netflix  | Idris Elba. Western movie | 
+| Platform  | Netflix  | Spain movie. Dystopian thriller | 
+| Pushpa  | Amazon Prime  | Telugu | 
+| Kurup  | Netflix  | Inspired by real incidents | 
+| Dont look up  | Netflix  | DiCaprio | 
+| Hawkeye  | Disney+ | Marvel | 
 | Prince  | HBO | Anime | 
 | Ted Lasso  | Apple TV  | TV series. Good comedy | 
 | See  |  Apple TV  | TV series. Post-apocalyptic show. Well shot | 
