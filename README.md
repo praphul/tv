@@ -5,7 +5,10 @@ This list is created with inputs from friends. Follow and watch them at your ris
 
 | Title  | Location | Notes | 
 | ------------- | ------------- | ----------- | 
-| Yellowstone  | Paramount  | New season has started | 
+| Yellowstone  | Paramount  | 4th season | 
+| Ozark  | Netflix  | First part of 4th season | 
+| Matrix Resurrections  | HBO  | Sequel| 
+| Garuda Gamana Vrishabha Vahana |.| Kannada movie | 
 | Yeh kali kali aankhein  | Netflix  | New series | 
 | Harder they fall  | Netflix  | Idris Elba. Western movie | 
 | Platform  | Netflix  | Spain movie. Dystopian thriller | 
