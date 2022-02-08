@@ -5,6 +5,11 @@ This list is created with inputs from friends. Follow and watch them at your ris
 
 | Title  | Location | Notes | 
 | ------------- | ------------- | ----------- | 
+
+| Rocket Boys  | SonyLiv  | Indian nuclear history. Well shot. |
+| Reacher  | Amazon Prime  | 1st season. Decent |
+| Manchi Rojulu vachayi | Telugu | Timepass |
+| WWW  | Telugu  | Good attempt |
 | Yellowstone  | Paramount  | 4th season | 
 | Ozark  | Netflix  | First part of 4th season | 
 | Matrix Resurrections  | HBO  | Sequel| 
