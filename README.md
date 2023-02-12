@@ -8,7 +8,6 @@ This list is created with inputs from friends. Follow and watch them at your ris
 
 | Mukundan Unni  | Hulu  | Telugu dubbing of Malayalam movie. Dark comedy, thriller |
 | Last of us  | HBO  | Based on a game |
-
 | Rocket Boys  | SonyLiv  | Indian nuclear history. Well shot. |
 | Reacher  | Amazon Prime  | 1st season. Decent |
 | Manchi Rojulu vachayi | Telugu | Timepass |
